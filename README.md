@@ -17,11 +17,11 @@ Here's how it's going so far. Each day is a new step forward!
 |-----|--------|-----------------------------------------------------------------------|-----------------------------------------------|
 | 01 | ✅      | Two Sum (1 - LeetCode)                                               |              [Solution](./Day01.cpp)          |
 | 02 | ✅      | Best Time to Buy and Sell Stock (121 - LeetCode)                     |              [Solution](./Day02.cpp)                          | 
-| 03 | ✅      | Contains Duplicate (217 - LeetCode)                                  |                                               |
-| 04 | ✅      | Valid Anagram (242 - LeetCode)                                       |                                               |
-| 05 | ✅      | Find Nmubers With Even Number Of Digits (1295 - LeetCode)            |                                               |
-| 06 | ✅      | FizzBuzz (412 - LeetCode)                                            |                                               |
-| 07 | ✅      | Valid Palindrome (125 - LeetCode)                                    |                                               |
+| 03 | ✅      | Contains Duplicate (217 - LeetCode)                                  |              [Solution](./Day03.cpp)          |
+| 04 | ✅      | Valid Anagram (242 - LeetCode)                                       |              [Solution](./Day04.cpp)                                 |
+| 05 | ✅      | Find Nmubers With Even Number Of Digits (1295 - LeetCode)            |              [Solution](./Day05.cpp)                                |
+| 06 | ✅      | FizzBuzz (412 - LeetCode)                                            |               [Solution](./Day06.cpp)                                |
+| 07 | ✅      | Valid Palindrome (125 - LeetCode)                                    |               [Solution](./Day07.cpp)                                |
 | 08 | ✅      | Way Too Long Words (71A - Codeforces)                                |                                               |
 | 09 | ✅      | Team (231A - Codeforces)                                             |                                               |
 | 10 | ✅      | Next Round (158A - Codeforces)                                       |                                               |
