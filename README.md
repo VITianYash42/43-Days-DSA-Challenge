@@ -15,7 +15,7 @@ Here's how it's going so far. Each day is a new step forward!
 
 | Day | Status |                Problem Solved                                        |              My Solution                      |
 |-----|--------|-----------------------------------------------------------------------|-----------------------------------------------|
-| 01 | ✅      | Two Sum (1 - LeetCode)                                               |                                               |
+| 01 | ✅      | Two Sum (1 - LeetCode)                                               |              [Solution](./Day01.cpp)          |
 | 02 | ✅      | Best Time to Buy and Sell Stock (121 - LeetCode)                     |                                               | 
 | 03 | ✅      | Contains Duplicate (217 - LeetCode)                                  |                                               |
 | 04 | ✅      | Valid Anagram (242 - LeetCode)                                       |                                               |
