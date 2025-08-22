@@ -1,36 +1,29 @@
-                                                     // DAY 05 - "FIZZ BUZZ"
+                                    // DAY 05 - "FIND NUMBERS WITH EVEN NUMBER OF DIGITS"
 
 #include <iostream>
-#include <vector>
 #include <string>
+#include <algorithm>
+#include <vector>
 using namespace std;
+
 class Solution {
 public:
-    vector<string> fizzBuzz(int n) {
-        std::vector<std::string> answer;
-        for ( int i = 1; i<n+1; i++) {
-            if (i % 5 == 0 && i % 3 == 0) {
-                answer.push_back("FizzBuzz");
-            }
-            else if ( i % 3 == 0) {
-                answer.push_back("Fizz");
-            }
-            else if ( i % 5 == 0) {
-                answer.push_back("Buzz");
-            }
-            else {
-                answer.push_back(std::to_string(i));
+    int findNumbers(vector<int>& nums) {
+        int count = 0;
+        int n = nums.size();
+        for ( int i = 0; i<n; i++) {
+            std:: string s = std::to_string(nums[i]);
+            if (s.length() % 2 == 0) {
+                count += 1;
             }
         }
-        return answer;
+        return count;
     }
 };
 int main() {
     Solution sol;
-    int n = 15;
-    vector<string> result = sol.fizzBuzz(n);
-    for (const string& str : result) {
-        cout << str << endl;
-    }
+    vector<int> my_nums = {12, 345, 2, 6, 7896};
+    int result = sol.findNumbers(my_nums);
+    cout << "Numbers with an even number of digits: " << result << endl;
     return 0;
 }
