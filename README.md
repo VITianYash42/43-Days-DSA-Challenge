@@ -19,7 +19,7 @@ Here's how it's going so far. Each day is a new step forward!
 | 02 | ✅      | Best Time to Buy and Sell Stock (121 - LeetCode)                     |              [Solution](./Day02.cpp)                          | 
 | 03 | ✅      | Contains Duplicate (217 - LeetCode)                                  |                                               |
 | 04 | ✅      | Valid Anagram (242 - LeetCode)                                       |                                               |
-| 05 | ✅      | FizzBuzz (412 - LeetCode)                                            |                                               |
+| 05 | ✅      | Find Nmubers With Even Number Of Digits (1295 - LeetCode)            |                                               |
 | 06 | ✅      | FizzBuzz (412 - LeetCode)                                            |                                               |
 | 07 | ✅      | Valid Palindrome (125 - LeetCode) & Watermelon (4A - Codeforces)     |                                               |
 | 08 | ✅      | Way Too Long Words (71A - Codeforces)                                |                                               |
