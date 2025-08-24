@@ -43,8 +43,8 @@ Here's how it's going so far. Each day is a new step forward!
 | 26 | ✅      | Nearly Lucky Number (110A - Codeforces) |[Solution](./Day26.cpp) |
 | 27 | ✅      | Ultra-Fast Mathematician (61A - Codeforces) | [Solution](./Day27.cpp)|
 | 28 | ✅      | Panoramix's Prediction (80A - Codeforces) | [Solution](./Day28.cpp)|
-| 29 | ✅      | Lucky Division (122A - Codeforces|[Solution](./Day29.cpp) |
-| 30 | ⏳ | | |
+| 29 | ✅      | Lucky Division (122A - Codeforces)|[Solution](./Day29.cpp) |
+| 30 | ⏳      |         HQ9+ (133A - Codeforces)                                                  |[Solution](./Day30.cpp) |
 | 31 | ⏳ | | |
 | 32 | ⏳ | | |
 | 33 | ⏳ | | |
