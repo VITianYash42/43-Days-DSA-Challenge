@@ -47,7 +47,7 @@ Here's how it's going so far. Each day is a new step forward!
 | 30 | ✅      |         HQ9+ (133A - Codeforces)                                                  |[Solution](./Day30.cpp) |
 | 31 | ✅      |                I_love_%username% (155A - Codeforces)                                           | [Solution](./Day31.cpp)|
 | 32 | ✅      |       George and Accommodation (467A - Codeforces)                 | [Solution](./Day32.cpp)|
-| 33 | ⏳ | | |
+| 33 | ✅      |       Young Physicist (69A - Codeforces)                                   |     [Solution](./Day33.cpp)  |
 | 34 | ⏳ | | |
 | 35 | ⏳ | | |
 | 36 | ⏳ | | |
