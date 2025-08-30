@@ -51,7 +51,7 @@ Here's how it's going so far. Each day is a new step forward!
 | 34 | ✅      |      Calculating Function (486A - Codeforces)       |  [Solution](./Day34.cpp)                                |
 | 35 | ✅      |    Drinks (200B - Codeforces)                    | [Solution](./Day35.cpp)                             |
 | 36 | ✅      |    Beautiful Matrix (263A - Codeforces)         |  [Solution](./Day36.cpp)                             |
-| 37 | ⏳ | | |
+| 37 | ✅      |    Divisibility Problem (1328A - Codeforces)      | [Solution](./Day37.cpp)           |
 | 38 | ⏳ | | |
 | 39 | ⏳ | | |
 | 40 | ⏳ | | |
