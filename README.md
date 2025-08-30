@@ -50,7 +50,7 @@ Here's how it's going so far. Each day is a new step forward!
 | 33 | ✅      |       Young Physicist (69A - Codeforces)                                   |     [Solution](./Day33.cpp)  |
 | 34 | ✅      |      Calculating Function (486A - Codeforces)       |  [Solution](./Day34.cpp)                                |
 | 35 | ✅      |    Drinks (200B - Codeforces)                    | [Solution](./Day35.cpp)                             |
-| 36 | ⏳ | | |
+| 36 | ✅      |    Beautiful Matrix (263A - Codeforces)         |  [Solution](./Day36.cpp)                             |
 | 37 | ⏳ | | |
 | 38 | ⏳ | | |
 | 39 | ⏳ | | |
