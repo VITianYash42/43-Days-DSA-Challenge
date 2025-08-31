@@ -52,7 +52,7 @@ Here's how it's going so far. Each day is a new step forward!
 | 35 | ✅      |    Drinks (200B - Codeforces)                    | [Solution](./Day35.cpp)                             |
 | 36 | ✅      |    Beautiful Matrix (263A - Codeforces)         |  [Solution](./Day36.cpp)                             |
 | 37 | ✅      |    Divisibility Problem (1328A - Codeforces)      | [Solution](./Day37.cpp)           |
-| 38 | ⏳ | | |
+| 38 | ✅      |  Domino Piling (50A Codeforces)       | [Solution](./Day38.cpp)           |
 | 39 | ⏳ | | |
 | 40 | ⏳ | | |
 | 41 | ⏳ | | |
