@@ -1,7 +1,7 @@
 # 43-Days-DSA-Challenge (25 July - 05 Sept)
 Solving one problem a day to sharpen my coding skills.
 
-# 🚀 My 43-Day Adventure into Data Structures & Algorithms! 🚀  USING C++
+# My 43-Day Adventure into Data Structures & Algorithms! 🚀  USING C++
 
 Hey there! 👋 Welcome to my personal DSA challenge.
 
