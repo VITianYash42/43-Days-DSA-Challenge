@@ -1,7 +1,7 @@
 # 43-Days-DSA-Challenge (25 July - 05 Sept)
 Solving one problem a day to sharpen my coding skills.
 
-# 🚀 My 43-Day Adventure into Data Structures & Algorithms! 🚀  USING C++
+# My 43-Day Adventure into Data Structures & Algorithms! 🚀  USING C++
 
 Hey there! 👋 Welcome to my personal DSA challenge.
 
@@ -54,7 +54,7 @@ Here's how it's going so far. Each day is a new step forward!
 | 37 | ✅      |    Divisibility Problem (1328A - Codeforces)      | [Solution](./Day37.cpp)           |
 | 38 | ✅      |  Domino Piling (50A Codeforces)       | [Solution](./Day38.cpp)           |
 | 39 | ✅      | Soldier and Bananas (546A - Codeforces)       | [Solution](./Day39.cpp)         |
-| 40 | ⏳ | | |
+| 40 | ✅      | Magnets (344A - Codeforces)        | [Solution](./Day40.cpp)             |
 | 41 | ⏳ | | |
 | 42 | ⏳ | | |
 | 43 | 🎯 | *The Final Boss!* | |
