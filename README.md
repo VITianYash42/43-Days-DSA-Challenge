@@ -57,8 +57,8 @@ Here's how it's going so far. Each day is a new step forward!
 | 40 | ✅      | Magnets (344A - Codeforces)        | [Solution](./Day40.cpp)             |
 | 41 | ✅      | Presents (136A - Codeforces)      |  [Solution](./Day41.cpp)             |
 | 42 | ✅      | Minimum Digit (2126A - Codeforces)         | [Solution](./Day42.cpp)           |
-| 43 | 🎯 | *The Final Boss!* | |
-
+| 43 | ✅      |  Twins (160A - Codeforces) | [Solution](./Day43.cpp)     |
+ 
 
 ### Tech Stack
 * **Main Language:** {C++}
