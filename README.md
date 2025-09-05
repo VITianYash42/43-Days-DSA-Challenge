@@ -3,7 +3,7 @@ Solving one problem a day to sharpen my coding skills.
 
 # My 43-Day Adventure into Data Structures & Algorithms! 🚀  USING C++
 
-Hey there! 👋 Welcome to my personal DSA challenge.
+Hey there! 👋 Welcome to my #TeachersDay DSA challenge.
 
 For 43 days, I'm dedicating myself to solving one new problem every day. This isn't just about preparing for interviews; it's about falling in love with the process of problem-solving and proving to myself that I can stick to a goal.
 
@@ -11,7 +11,7 @@ I'm sharing my journey publicly to keep myself accountable and hopefully connect
 
 ### My Progress Log
 
-Here's how it's going so far. Each day is a new step forward!
+Each day is a new step forward!
 
 | Day | Status |                Problem Solved                                        |              My Solution                      |
 |-----|--------|-----------------------------------------------------------------------|-----------------------------------------------|
